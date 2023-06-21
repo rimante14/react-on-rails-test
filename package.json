@@ -1,5 +1,7 @@
 {
   "name": "test_three",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "react-on-rails": "13.3.5"
+  }
 }
