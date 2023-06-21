@@ -2,6 +2,10 @@
   "name": "test_three",
   "private": true,
   "dependencies": {
+    "@rails/webpacker": "3.5",
     "react-on-rails": "13.3.5"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
   }
 }

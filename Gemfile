@@ -64,5 +64,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 #Added by me
 gem "react_on_rails"
 gem 'loofah', '~>2.19.1'
+gem "webpacker", "~> 3"
 
 gem 'mini_racer', platforms: :ruby
